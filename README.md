@@ -19,5 +19,5 @@ Find me in [here](https://nawhji.github.io/about/)!
 | [Speaker Diarization](https://github.com/nawhji/speaker_diarization) | Text-based speaker diarization using contrastive learning to learn speaker-discriminative utterance representations | Python, PyTorch |
 | [CrossFit WOD Analysis](https://github.com/nawhji/crossfit_wod_analyzing) | Embedding-based workout clustering pipeline with OpenAI API and structured JSON normalization | Python |
 | [Contactless Scroller](https://nawhji.github.io/blog/markdown-HCI-Term-Project-Contacless-Scroller(2024-spring)/) | Hands-free scrolling interface using YOLO-based head-gesture detection and DeepFace expression analysis | Python |
-| [PintOS Kernel](https://github.com/mindolii/os20221044_20231233) | Implemented scheduling, timer interrupt handling, and system calls in C; debugged synchronization and user-program execution | C |
+| [PintOS Kernel](https://github.com/nawhji/PintOS) | Implemented scheduling, timer interrupt handling, and system calls in C; debugged synchronization and user-program execution | C |
 | [Robotics Control Systems](https://nawhji.github.io/blog/markdown-Robotics-Projects-with-Unity-Engine(2025-fall)/) | Three control systems in Unity: teleoperation, checkpoint-guided navigation, and LiDAR-based multi-agent exploration | C#, Unity |
