@@ -1,6 +1,6 @@
 # 💫 About Me:
 Undergraduate researcher in Computer Science at UNIST.<br>Interested in machine learning, systems, and algorithms — and how careful implementation decisions affect both.
-Find me in [here](https://nawhji.github.io/about/)!
+Find me [here](https://nawhji.github.io/about/)!
 
 
 ## 🌐 Socials:
